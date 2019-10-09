@@ -1,9 +1,11 @@
-# restful-api-symfony-4
-RESTful API web server not dockerized with Symfony 4
+# RESTful API server no dockerized with Symfony 4
+
+This is a basic Hello-Wolrd application.
+This project was generated with [Symfony](https://github.com/symfony/symfony) version 4.3.
 
 ## Requirements
 
-It is assumed you have Linux OS, but you can run this project in Windows or MacOS also, just use the alternative  lines commands.
+(fake)It is assumed you have Linux OS, but you can run this project in Windows or MacOS also, just use the alternative  lines commands.
 
 **Linux**
 
